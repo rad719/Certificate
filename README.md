@@ -1,4 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/rad719/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/rad719/Certificate/edit/main/README.svg?cache=remove)
 
 
 ## 🏆 Certificates 
