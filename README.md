@@ -1,4 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/rad719/Certificate/edit/main/README.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/rad719/Certificate.svg?cache=remove)
 
 
 ## 🏆 Certificates 
